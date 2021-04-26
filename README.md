@@ -5,7 +5,6 @@ I'm Italo, and my focus is to be a programmer that can code complex systems and 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)]()
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-santos-paixao/)](https://www.linkedin.com/in/vinicius-santos-paixao/)
 [![GitHub followers](https://img.shields.io/github/followers/iaurg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vinicius3g?tab=followers)
-[![Code Wars]()
 
 
 ![vinicius3g github stats](https://github-readme-stats.vercel.app/api?username=vinicius3g&show_icons=true&title_color=fff&icon_color=FFCC00&text_color=9f9f9f&bg_color=151515)
