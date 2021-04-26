@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Italo, and my focus is to be a programmer that can code complex systems and beat good challenges.
+I'm Vinicius, and my focus is to be a programmer that can code complex systems and beat good challenges.
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)]()
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-santos-paixao/)](https://www.linkedin.com/in/vinicius-santos-paixao/)
