@@ -10,7 +10,7 @@ I'm Vinicius, and my focus is to be a programmer that can code complex systems a
 ![vinicius3g github stats](https://github-readme-stats.vercel.app/api?username=vinicius3g&show_icons=true&title_color=fff&icon_color=FFCC00&text_color=9f9f9f&bg_color=151515)
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius3g&langs_count=10&theme=graywhite&layout=compact" alt="Milena :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius3g&langs_count=10&theme=graywhite&layout=compact" alt="Vinicius :: Top Langs" /></p>
 <!--
 **vinicius3g/vinicius3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
